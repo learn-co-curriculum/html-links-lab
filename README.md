@@ -27,11 +27,11 @@ link text. This includes images!
 ```
 
 The example above, when displayed in the browser, by default, would show
-[Google](google.com) in blue and underlined. If this were on a website, clicking
+[Google](https://www.google.com/) in blue and underlined. If this were on a website, clicking
 it would _redirect_ the user, changing the current browser window URL to
 _google.com_.
 
-The `href` attribute in this example, is an full link, also known as an
+The `href` attribute in this example, is a full link, also known as an
 **absolute** path. Alternatively, we can also use a _relative_ path, which is
 used when we want to link to a separate file on the same website:
 
